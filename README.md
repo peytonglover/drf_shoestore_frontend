@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+worked with corbin creech
+link to backend repo: https://github.com/peytonglover/django_restframework_shoestore
 ## Available Scripts
 
 In the project directory, you can run:
